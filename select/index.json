@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "夢を信じて",
+  "base_artist": "Hideaki Tokunaga",
+  "createdAt": "2025-12-01T16:47:17.939936Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢を信じて",
+      "artist": "Hideaki Tokunaga",
+      "has_synced": false,
+      "path": "select/01_夢を信じて_Hideaki_Tokunaga.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夢を信じて",
+      "artist": "徳永英明",
+      "has_synced": false,
+      "path": "select/02_夢を信じて_徳永英明.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夢を信じて",
+      "artist": "徳永英明",
+      "has_synced": false,
+      "path": "select/03_夢を信じて_徳永英明.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夢を信じて (Re Mix)",
+      "artist": "Hideaki Tokunaga",
+      "has_synced": false,
+      "path": "select/04_夢を信じて_(Re_Mix)_Hideaki_Tokunaga.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夢を信じて",
+      "artist": "Hideaki Tokunaga",
+      "has_synced": false,
+      "path": "select/05_夢を信じて_Hideaki_Tokunaga.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢を信じて",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_01_夢を信じて_徳永_英明.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "夢を信じて",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_02_夢を信じて_徳永_英明.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "夢を信じて",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_03_夢を信じて_徳永_英明.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "夢を信じて",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_04_夢を信じて_徳永_英明.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "夢を信じて",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_05_夢を信じて_徳永_英明.txt"
+    }
+  ]
+}
